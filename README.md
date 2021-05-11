@@ -6,9 +6,10 @@
 ![CSS](/svg/css3.svg)
 ![JS](/svg/JS.svg)
 ![React](/svg/react.svg)
-![Redux](/svg/redux.svg)
-![TS](/svg/TS.svg)
 ![Git](/svg/git.svg)
+<!--![Redux](/svg/redux.svg)
+![TS](/svg/TS.svg)
+
 
 
 ## MY CONTACTS
