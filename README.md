@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Artemii
+### Hi there 👋 My name is Artemii. Begin career as frontend developer since 2020 :)
 
 
 ## MY TECHNOLOGY STACK AND TOOLS
