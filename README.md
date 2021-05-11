@@ -1,7 +1,5 @@
 ### Hi there 👋 My name is Artemii
 
-<!--
-**tyumen-777/tyumen-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## MY TECHNOLOGY STACK AND TOOLS
 ![HTML](/svg/html-5.svg)
