@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 My name is Artemii
 
 <!--
 **tyumen-777/tyumen-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## MY TECHNOLOGY STACK AND TOOLS
+![HTML](/svg/html-5.svg)
+![CSS](/svg/css3.svg)
+![JS](/svg/JS.svg)
+![React](/svg/react.svg)
+![Redux](/svg/redux.svg)
+![TS](/svg/TS.svg)
+![Git](/svg/git.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## MY CONTACTS
+[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/artemii-pudovkin-6a9368205/)
+[<img src="./svg/telegram.svg">](https://t.me/bmwf80)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:artempudovkin@gmail.com)
